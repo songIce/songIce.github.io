@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Decentralized Channel Estimation for the Uplink of Grant-Free Massive Machine-Type Communications"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-12-08
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://ieeexplore.ieee.org/document/9606865'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper studies the joint estimation of channel fading and user activity for the uplink of a grant-free massive machine-type communication system. Comparing with previous studies, we consider more practical aspects of the system, including non-i.i.d. signature matrices, low-resolution quantization, and random users activated by an unknown sparse rate. A new estimation algorithm, termed hybrid decentralized generalized expectation consistent (HyDeGEC), is then derived based on a hybrid network that applies scalar message passing for the prior inference and vector message passing for the likelihood inference. This new algorithm outperforms many state-of-the-art techniques in terms of robustness (to non-i.i.d. signatures), complexity (in computation per iteration), and/or estimation accuracy (of the channel and the activity rate). The state evolution of the algorithm is also analyzed, which, as validated by simulations, can capture precisely the algorithm’s per-iteration behavior in MSE. Summing up, the algorithm we propose here is practically effective, computationally efficient, and theoretically analyzable.
