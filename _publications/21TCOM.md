@@ -1,8 +1,7 @@
 ---
 title: "Decentralized Channel Estimation for the Uplink of Grant-Free Massive Machine-Type Communications"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/21TCOM
 date: 2021-12-08
 venue: 'IEEE Transactions on Communications'
 paperurl: 'https://ieeexplore.ieee.org/document/9606865'
