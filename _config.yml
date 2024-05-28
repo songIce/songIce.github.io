@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : # "en-US"
 title                    : "Songbin Liu"
 title_separator          : "-"
 name                     : &name "Songbin Liu"
@@ -21,7 +21,7 @@ repository               : "songIce/songIce.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mycat.png"
   name             : "Songbin Liu"
   pronouns         : # example: "she/her"  
   bio              : "nothing"
