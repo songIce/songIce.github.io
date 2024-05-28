@@ -15,5 +15,5 @@ Previously, I was a Master's student in the Automation Department at Guangdong U
 I am currently looking for a PhD position to further my research in these areas. 
 You can find my CV here: [Songbin's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-[Email](liusongbin@lsec.cc.ac.cn) / [Github](https://github.com/songIce) # / [Wechat](../files/wechat.jpg)
+[Email](liusongbin@lsec.cc.ac.cn) / [Github](https://github.com/songIce) / [Wechat](../images/wechat.png)
 
