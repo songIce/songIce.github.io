@@ -2,10 +2,10 @@
 title: "Optimality of Approximate Message Passing Algorithms for Spiked Matrix Models with Rotationally Invariant Noise"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 
-date: 
-venue: 
-slidesurl: 
+excerpt: 1
+date: 1
+venue: 1
+slidesurl: 1
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 
 ---
