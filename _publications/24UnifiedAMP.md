@@ -1,5 +1,5 @@
 ---
-title: "AMP Algorithms for Rotationally-Invariant Models: A Unied Approach via Orthogonal Decomposition"
+title: "AMP Algorithms for Rotationally-Invariant Models: A Unified Approach via Orthogonal Decomposition"
 collection: publications
 permalink: /publication/24UnifiedAMP
 date: 2024-11-30
