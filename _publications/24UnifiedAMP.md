@@ -6,7 +6,7 @@ date: 2024-11-30
 paperurl: 'http://songIce.github.io/files/paper4.pdf'
 ---
 
-This paper aims to provide a unied framework for constructing approximate message passing (AMP)
+This paper aims to provide a unified framework for constructing approximate message passing (AMP)
 algorithms for rotationally-invariant models. Starting with a general iterative algorithm template, we
 show how to derive the correct Onsager terms in a principled way via reduction to long-memory orthog-
 onal AMP (OAMP) algorithms. We use this method to re-derive an AMP algorithm recently proposed
