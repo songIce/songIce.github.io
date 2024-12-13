@@ -1,16 +1,9 @@
 ---
-title: "AMP Algorithms for Rotationally-Invariant Models: A Unified Approach via Orthogonal Decomposition"
+title: "Unifying AMP Algorithms for Rotationally-Invariant Models"
 collection: publications
 permalink: /publication/24UnifiedAMP
 date: 2024-11-30
-paperurl: 'http://songIce.github.io/files/paper4.pdf'
+paperurl: '[https://arxiv.org/pdf/2412.01574](https://arxiv.org/pdf/2412.01574)'
 ---
 
-This paper aims to provide a unified framework for constructing approximate message passing (AMP)
-algorithms for rotationally-invariant models. Starting with a general iterative algorithm template, we
-show how to derive the correct Onsager terms in a principled way via reduction to long-memory orthog-
-onal AMP (OAMP) algorithms. We use this method to re-derive an AMP algorithm recently proposed
-by Fan and Opper et al. Unlike the works of Opper et al. and Fan, free cumulants of the spectral law
-emerge in our derivations of AMP from a recursive centering operation, potentially of independent inter-
-est. To showcase the versatility of our approach, we devise two novel variants of AMP and demonstrate
-its applications to estimation in spiked models.
+This paper presents a unified framework for constructing Approximate Message Passing (AMP) algorithms for rotationally-invariant models. By employing a general iterative algorithm template and reducing it to long-memory Orthogonal AMP (OAMP), we systematically derive the correct Onsager terms of AMP algorithms. This approach allows us to rederive an AMP algorithm introduced by Fan and Opper et al., while shedding new light on the role of free cumulants of the spectral law. The free cumulants arise naturally from a recursive centering operation, potentially of independent interest beyond the scope of AMP. To illustrate the flexibility of our framework, we introduce two novel AMP variants and apply them to estimation in spiked models.
