@@ -3,7 +3,7 @@ title: "Optimality of Approximate Message Passing Algorithms for Spiked Matrix M
 collection: publications
 permalink: /publication/24AOS
 date: 2024-05-28
-venue:  minor revision at Annals of Statistics, 2024. (alphabetical order)
+venue:  minor revision at Annals of Statistics. (alphabetical order)
 paperurl: 'http://songIce.github.io/files/paper3.pdf'
 ---
 
