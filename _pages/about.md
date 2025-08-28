@@ -18,5 +18,5 @@ You can find my CV here: [Songbin's Curriculum Vitae](../files/Curriculum_Vitae.
 **Email:** liusongbin@lsec.cc.ac.cn
 
 
-[Email](liusongbin@lsec.cc.ac.cn) / [Github](https://github.com/songIce) / [Wechat](../images/wechat.png)
+[Email](sl5878@columbia.edu) / [Github](https://github.com/songIce) / [Wechat](../images/wechat.png)
 
