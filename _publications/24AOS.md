@@ -2,7 +2,7 @@
 title: "Optimality of Approximate Message Passing Algorithms for Spiked Matrix Models with Rotationally Invariant Noise"
 collection: publications
 permalink: /publication/24AOS
-date: 2025-09
+date: 2025-09-03
 venue:  Annals of Statistics. (alphabetical order)
 paperurl: 'http://songIce.github.io/files/paper3.pdf'
 ---
