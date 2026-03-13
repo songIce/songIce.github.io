@@ -15,7 +15,7 @@ I am very fortunate to work with [Prof. Junjie Ma](http://lsec.cc.ac.cn/~mjj/ind
 
 You can find my CV here: [Songbin's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-**Email:** liusongbin@lsec.cc.ac.cn
+**Email:** sl5878@columbia.edu
 
 
 [Email](sl5878@columbia.edu) / [Github](https://github.com/songIce) / [Wechat](../images/wechat.png)
