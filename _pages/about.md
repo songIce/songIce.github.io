@@ -13,8 +13,6 @@ Prior to joining Columbia, I was a Research Assistant at the Academy of Mathemat
 
 I am very fortunate to work with [Prof. Junjie Ma](http://lsec.cc.ac.cn/~mjj/index.html) and [Prof. Rishabh Dudeja](https://stat.wisc.edu/staff/dudeja-rishabh/).
 
-You can find my CV here: [Songbin's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
-
 **Email:** sl5878@columbia.edu
 
 
