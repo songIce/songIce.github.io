@@ -11,7 +11,7 @@ I am a PhD student in Electrical Engineering at Columbia University, supervised 
 
 Prior to joining Columbia, I was a Research Assistant at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, supervised by Professor [Junjie Ma](http://lsec.cc.ac.cn/~mjj/index.html). I earned both my M.S. and B.S. degrees from the Department of Automation at Guangdong University of Technology, where I was fortunate to be mentored by [Prof. Haochuan Zhang](https://teacher.gdut.edu.cn/zhanghaochuan/zh_CN/index.htm).
 
-I am very fortunate to work with [Prof. Junjie Ma](http://lsec.cc.ac.cn/~mjj/index.html) and [Prof. Rishabh Dudeja](https://stat.wisc.edu/staff/dudeja-rishabh/).
+I am very fortunate to work with [Prof. Rishabh Dudeja](https://stat.wisc.edu/staff/dudeja-rishabh/).
 
 **Email:** sl5878@columbia.edu
 
